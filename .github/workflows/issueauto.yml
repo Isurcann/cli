@@ -1,4 +1,4 @@
-name: Issue Automation
+run-name: Issue Automation
 on:
   issues:
     types: [opened]
